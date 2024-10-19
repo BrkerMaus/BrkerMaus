@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to create, le
 
 ## 🌐 Connect with Me
 
-- LinkedIn: [Emman Castro](www.linkedin.com/in/emman-castro-779b91254)
+- LinkedIn: [Emman Castro](https://www.linkedin.com/in/emman-castro-779b91254)
 - Twitter: [@EmmanCastro14](https://twitter.com/your-handle)
 - Email: [emmanc590@gmail.com](mailto:emmanc590@gmail.com)
 
@@ -51,6 +51,6 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to create, le
 
 If you found my work helpful, consider buying me a coffee!
 
-<a href="buymeacoffee.com/Algorit" target="_blank">
+<a href="https://buymeacoffee.com/Algorit" target="_blank">
     <img src="https://img.shields.io/badge/-Buy%20me%20a%20coffee-yellow?style=flat-square&logo=buy-me-a-coffee&logoColor=white">
 </a>
